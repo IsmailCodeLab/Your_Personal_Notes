@@ -21,3 +21,7 @@ python main.py
 ## Viewing The App
 
 Go to `http://127.0.0.1:5000`
+
+## Hosted in a free hosting platform
+
+Link:[Website Link](http://ismail123ngk.pythonanywhere.com/login?next=%2F)
