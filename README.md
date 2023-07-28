@@ -22,6 +22,6 @@ python main.py
 
 Go to `http://127.0.0.1:5000`
 
-## Hosted in a free hosting platform
+## Website after hosting
 
 Link:[Website Link](http://ismail123ngk.pythonanywhere.com/login?next=%2F)
